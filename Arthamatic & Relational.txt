@@ -1,0 +1,16 @@
+Java script Revision
+1.Arthimatic operation
+	system.out.println(a+b);
+	system.out.println(a-b);
+	system.out.println(a*b);
+	system.out.println(a/b);
+	system.out.println(a%b);
+
+2.Relation operation
+	Boolean value---->True or False
+	
+	int x=5; int y=2;
+	system.out.println(x>y); ----->True
+	system.out.println(x<y); ----->False
+	system.out.println(x==y); ---->False
+

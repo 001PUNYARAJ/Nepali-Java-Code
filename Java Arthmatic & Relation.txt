@@ -1,0 +1,15 @@
+Arthmatic Operation
+system.out.println(a+b);
+system.out.println(a-b);
+system.out.println(a*b);
+system.out.println(a/b);
+system.out.println(a%b):
+
+Relation Operation
+system.out.println(a>b);
+system.out.println(a<b);
+system.out.println(a>=b);
+system.out.println(a<=b);
+system.out.println(a==b);
+system.out.println(a!b);
+system.out.println(a!=b);
